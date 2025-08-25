@@ -14,3 +14,4 @@ Key Features:
 ⚡ Fast and user-friendly interface
 
 
+![airquality](https://github.com/Shwta23/Air-Quailty/blob/main/airquality.png)
